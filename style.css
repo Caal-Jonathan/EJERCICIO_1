@@ -1,165 +1,31 @@
-table {
-    border-collapse: collapse;
-    margin: 20px;
+*{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-td {
-    width: 80px;
-    height: 40px;
-    text-align: center;
-    vertical-align: middle;
-    border: 1px solid black;
-}
-.teal-teal {
-    color: teal;
-    background-color: white;
+p{
+    color: #555;
 }
 
-.teal-red {
-    color: teal;
-    background-color: red;
+#primero p{
+    color: #369;
 }
 
-.teal-green {
-    color: teal;
-    background-color: green;
+
+a{
+    color: #c30;
+}
+  
+#primero em{
+    color: #0000bb;
+    background-color: #ffffcc;
 }
 
-.teal-blue {
-    color: teal;
-    background-color: blue;
+em.especial{
+    color: #ffff00;
+    background-color: #000000;
 }
 
-.red-white{
-    color: red;
-    background-color: white;
-}
-.red-red {
-    color: red;
-    background-color: red;
-}
-.red-green {
-    color: red;
-    background-color: green;
-}
-.red-blue {
-    color: red;
-    background-color: blue;
-}
-.blue-white {
-    color: blue;
-    background-color: white;
-}
-
-.blue-red {
-    color: blue;
-    background-color: red;
-}
-
-.blue-green {
-    color: blue;
-    background-color: green;
-}
-
-.blue-blue {
-    color: blue;
-    background-color: blue;
-}
-
-.orange-white {
-    color: orange;
-    background-color: white;
-}
-
-.orange-red {
-    color: orange;
-    background-color: red;
-}
-
-.orange-green {
-    color: orange;
-    background-color: green;
-}
-
-.orange-blue {
-    color: orange;
-    background-color: blue;
-}
-.purple-white {
-    color: purple;
-    background-color: white;
-}
-
-.purple-red {
-    color: purple;
-    background-color: red;
-}
-
-.purple-green {
-    color: purple;
-    background-color: green;
-}
-
-.purple-blue {
-    color: purple;
-    background-color: blue;
-}
-
-.olive-white {
-    color: olive;
-    background-color: white;
-}
-
-.olive-red {
-    color: olive;
-    background-color: red;
-}
-
-.olive-green {
-    color: olive;
-    background-color: green;
-}
-
-.olive-blue {
-    color: olive;
-    background-color: blue;
-}
-
-.fuchsia-white {
-    color: fuchsia;
-    background-color: white;
-}
-
-.fuchsia-red {
-    color: fuchsia;
-    background-color: red;
-}
-
-.fuchsia-green {
-    color: fuchsia;
-    background-color: green;
-}
-
-.fuchsia-blue {
-    color: fuchsia;
-    background-color: blue;
-}
-.green-white {
-    color: green;
-    background-color: white;
-}
-
-.green-red {
-    color: green;
-    background-color: red;
-}
-
-.green-green {
-    color: green;
-    background-color: green;
-}
-
-.green-blue {
-    color: green;
-    background-color: blue;
+.normal span{
+    font-weight: bold;
 }
